@@ -1,4 +1,4 @@
-# Striptease-example-teensy4.1
+# Striptease-example-Teensy4.1
 
 This is an example to show how to use the Striptease library, and it's also the actual setup deployed in my living room. :-)
 
