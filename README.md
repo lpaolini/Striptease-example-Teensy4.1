@@ -1,6 +1,6 @@
 # Striptease-example-Teensy4.1
 
-This is an example to show how to use the Striptease library, and it's also the actual setup deployed in my living room. :-)
+This is an example to show how to use the [Striptease library](https://github.com/lpaolini/Striptease), and it's also the actual setup deployed in my living room. :-)
 
 ## Physical layout
 
