@@ -23,7 +23,7 @@ void setup() {
     controller->setup();
     controller->setBrightness(10);
     controller->setAudioEnabled(true);
-    // controller->setStandbyTimer(5000);
+    // controller->setStandbyTimer(2000);
     // controller->setStatsTimer(2000);
     remote->setup();
     serialRemote->setup();
